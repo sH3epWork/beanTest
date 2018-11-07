@@ -27,5 +27,10 @@ public class Dog implements CanGreet, IsAnimal {
     public void setName(String name) {
         this.name = name;
     }
+    /**
+     * jakas tam zmiana testowa
+     */
 }
+
+
 
